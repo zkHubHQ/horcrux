@@ -1,0 +1,5 @@
+// The program input for horcrux/src/main.leo
+[split_and_share]
+secret: field = 13984322129829field;
+first_coeff: field = 3982329876520283field;
+second_coff: field = 858720273672649203field;
