@@ -21,4 +21,6 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
+secrets.txt
 *.sw?
+.vercel
